@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="" />
+    <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +36,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Hello.executor": "Run",
+    "Application._01_AddString.executor": "Run",
     "Application._01_CheckPrime.executor": "Debug",
     "Application._01_EvenOdd.executor": "Run",
     "Application._01_validUser.executor": "Run",
+    "Application._02_AreaOfCircle.executor": "Run",
     "Application._02_GreetingMsg.executor": "Run",
     "Application._02_dayCheck.executor": "Run",
+    "Application._03_AreaOfTriangle.executor": "Run",
     "Application._03_SimpleInterest.executor": "Run",
     "Application._04_Basic_Calculator.executor": "Run",
     "Application._05_FindGreaterOne.executor": "Run",
@@ -60,13 +66,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._11_ReverseDigit">
-    <configuration name="_07_FibonnacciSeriesTillN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task._07_FibonnacciSeriesTillN" />
-      <module name="_02_FlowOfProgram" />
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="_01_basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_AddString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_Task._01_AddString" />
+      <module name="_03_LoopsAndCondtion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="_Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_08_PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task._08_PalindromeString" />
-      <module name="_02_FlowOfProgram" />
+    <configuration name="_02_AreaOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_Task._02_AreaOfCircle" />
+      <module name="_03_LoopsAndCondtion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="_Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,25 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_09_ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task._09_ArmstrongNumber" />
-      <module name="_02_FlowOfProgram" />
+    <configuration name="_03_AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_Task._03_AreaOfTriangle" />
+      <module name="_03_LoopsAndCondtion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_10_TargetNumOccur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task._10_TargetNumOccur" />
-      <module name="_02_FlowOfProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="_Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application._03_AreaOfTriangle" />
+        <item itemvalue="Application._02_AreaOfCircle" />
+        <item itemvalue="Application._01_AddString" />
         <item itemvalue="Application._11_ReverseDigit" />
-        <item itemvalue="Application._10_TargetNumOccur" />
-        <item itemvalue="Application._09_ArmstrongNumber" />
-        <item itemvalue="Application._08_PalindromeString" />
-        <item itemvalue="Application._07_FibonnacciSeriesTillN" />
       </list>
     </recent_temporary>
   </component>
