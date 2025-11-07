@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_Loops/src/Practice/_04_PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/_03_Loops/src/Practice/_04_PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,36 +42,54 @@
     "Application._01_CheckPrime.executor": "Debug",
     "Application._01_Datatype.executor": "Run",
     "Application._01_EvenOdd.executor": "Run",
+    "Application._01_Find_Largest_one.executor": "Run",
+    "Application._01_For_Loop.executor": "Run",
     "Application._01_If_Else.executor": "Run",
     "Application._01_LeapYear.executor": "Run",
     "Application._01_SumOfNaturalNumber.executor": "Run",
     "Application._01_validUser.executor": "Run",
     "Application._02_AreaOfCircle.executor": "Run",
+    "Application._02_Calculator.executor": "Run",
     "Application._02_Else_If_Ladder.executor": "Run",
     "Application._02_Factorial.executor": "Run",
     "Application._02_GreetingMsg.executor": "Run",
     "Application._02_SumOfTwo.executor": "Run",
+    "Application._02_While_Loop (1).executor": "Run",
+    "Application._02_While_Loop.executor": "Run",
     "Application._02_dayCheck.executor": "Run",
     "Application._03_AreaOfTriangle.executor": "Run",
+    "Application._03_Area_Of_Circle.executor": "Run",
+    "Application._03_Do_While.executor": "Run",
     "Application._03_MultiplicationTable.executor": "Run",
     "Application._03_Nested_If_Else.executor": "Run",
     "Application._03_SimpleInterest.executor": "Run",
     "Application._03_SumOfNeven.executor": "Run",
     "Application._03_Type_casting.executor": "Run",
+    "Application._04_Area_of_Triangle.executor": "Run",
     "Application._04_Basic_Calculator.executor": "Run",
     "Application._04_HCM.executor": "Run",
+    "Application._04_PrimeNumber.executor": "Run",
     "Application._04_Ternary_Operator.executor": "Run",
+    "Application._05_Area_Of_Triangle.executor": "Run",
+    "Application._05_Count_Digit.executor": "Run",
     "Application._05_FindCalculation.executor": "Run",
     "Application._05_FindGreaterOne.executor": "Run",
+    "Application._06_Area_of_Square.executor": "Run",
     "Application._06_CheckEvenOdd.executor": "Run",
+    "Application._06_Sum_of_Digit.executor": "Run",
     "Application._06_indiaToUsaConvertor.executor": "Run",
     "Application._07_FibonnacciSeriesTillN.executor": "Run",
+    "Application._07_Perimeter_of_Rectangle.executor": "Run",
     "Application._07_PrintMessage.executor": "Run",
+    "Application._07_Reverse_Number.executor": "Run",
+    "Application._08_Check_Palindrome_Number.executor": "Run",
     "Application._08_PalindromeString.executor": "Run",
     "Application._08_Simple_Interest.executor": "Run",
     "Application._09_Arithmatic_operation.executor": "Run",
     "Application._09_ArmstrongNumber.executor": "Run",
+    "Application._09_Return_sub_of_mul_and_sum_of_number.executor": "Run",
     "Application._10_Print_Largest_One.executor": "Run",
+    "Application._10_Take_Input_0_enter_showSum.executor": "Run",
     "Application._10_TargetNumOccur.executor": "Run",
     "Application._11_Currency_Convertor.executor": "Run",
     "Application._11_ReverseDigit.executor": "Run",
@@ -89,10 +108,10 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._14_ArmstrongNumber">
-    <configuration name="_10_Print_Largest_One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._10_Print_Largest_One" />
-      <module name="_01_basic" />
+  <component name="RunManager" selected="Application._11_Number_of_occurence">
+    <configuration name="_07_Reverse_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._07_Reverse_Number" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -103,9 +122,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11_Currency_Convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._11_Currency_Convertor" />
-      <module name="_01_basic" />
+    <configuration name="_08_Check_Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._08_Check_Palindrome_Number" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -116,9 +135,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_12_Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._12_Fibonacci_Series" />
-      <module name="_01_basic" />
+    <configuration name="_09_Return_sub_of_mul_and_sum_of_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._09_Return_sub_of_mul_and_sum_of_number" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -129,9 +148,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13_String_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._13_String_Palindrome" />
-      <module name="_01_basic" />
+    <configuration name="_10_Take_Input_0_enter_showSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._10_Take_Input_0_enter_showSum" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -142,9 +161,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14_ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._14_ArmstrongNumber" />
-      <module name="_01_basic" />
+    <configuration name="_11_Number_of_occurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._11_Number_of_occurence" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -157,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._14_ArmstrongNumber" />
-        <item itemvalue="Application._13_String_Palindrome" />
-        <item itemvalue="Application._12_Fibonacci_Series" />
-        <item itemvalue="Application._11_Currency_Convertor" />
-        <item itemvalue="Application._10_Print_Largest_One" />
+        <item itemvalue="Application._11_Number_of_occurence" />
+        <item itemvalue="Application._10_Take_Input_0_enter_showSum" />
+        <item itemvalue="Application._09_Return_sub_of_mul_and_sum_of_number" />
+        <item itemvalue="Application._08_Check_Palindrome_Number" />
+        <item itemvalue="Application._07_Reverse_Number" />
       </list>
     </recent_temporary>
   </component>
