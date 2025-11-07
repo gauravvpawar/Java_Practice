@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01_basic/_03_Type_casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01_basic/_03_Type_casting.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +41,36 @@
     "Application.Hello.executor": "Run",
     "Application._01_AddString.executor": "Run",
     "Application._01_CheckPrime.executor": "Debug",
+    "Application._01_Datatype.executor": "Run",
     "Application._01_EvenOdd.executor": "Run",
+    "Application._01_If_Else.executor": "Run",
     "Application._01_LeapYear.executor": "Run",
+    "Application._01_SumOfNaturalNumber.executor": "Run",
     "Application._01_validUser.executor": "Run",
     "Application._02_AreaOfCircle.executor": "Run",
+    "Application._02_Else_If_Ladder.executor": "Run",
+    "Application._02_Factorial.executor": "Run",
     "Application._02_GreetingMsg.executor": "Run",
     "Application._02_SumOfTwo.executor": "Run",
     "Application._02_dayCheck.executor": "Run",
     "Application._03_AreaOfTriangle.executor": "Run",
     "Application._03_MultiplicationTable.executor": "Run",
+    "Application._03_Nested_If_Else.executor": "Run",
     "Application._03_SimpleInterest.executor": "Run",
+    "Application._03_SumOfNeven.executor": "Run",
+    "Application._03_Type_casting.executor": "Run",
     "Application._04_Basic_Calculator.executor": "Run",
     "Application._04_HCM.executor": "Run",
+    "Application._04_Ternary_Operator.executor": "Run",
     "Application._05_FindCalculation.executor": "Run",
     "Application._05_FindGreaterOne.executor": "Run",
+    "Application._06_CheckEvenOdd.executor": "Run",
     "Application._06_indiaToUsaConvertor.executor": "Run",
     "Application._07_FibonnacciSeriesTillN.executor": "Run",
+    "Application._07_PrintMessage.executor": "Run",
     "Application._08_PalindromeString.executor": "Run",
+    "Application._08_Simple_Interest.executor": "Run",
+    "Application._09_Arithmatic_operation.executor": "Run",
     "Application._09_ArmstrongNumber.executor": "Run",
     "Application._10_TargetNumOccur.executor": "Run",
     "Application._11_ReverseDigit.executor": "Run",
@@ -71,9 +86,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._05_FindCalculation">
-    <configuration name="_01_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._01_LeapYear" />
+  <component name="RunManager" selected="Application._09_Arithmatic_operation">
+    <configuration name="_04_Ternary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Ternary_Operator" />
+      <module name="02_DecisionMaking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06_CheckEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._06_CheckEvenOdd" />
       <module name="_01_basic" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_SumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._02_SumOfTwo" />
+    <configuration name="_07_PrintMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._07_PrintMessage" />
       <module name="_01_basic" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._03_MultiplicationTable" />
+    <configuration name="_08_Simple_Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._08_Simple_Interest" />
       <module name="_01_basic" />
       <extension name="coverage">
         <pattern>
@@ -111,21 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_HCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._04_HCM" />
-      <module name="_01_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_05_FindCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._05_FindCalculation" />
+    <configuration name="_09_Arithmatic_operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._09_Arithmatic_operation" />
       <module name="_01_basic" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._05_FindCalculation" />
-        <item itemvalue="Application._04_HCM" />
-        <item itemvalue="Application._03_MultiplicationTable" />
-        <item itemvalue="Application._02_SumOfTwo" />
-        <item itemvalue="Application._01_LeapYear" />
+        <item itemvalue="Application._09_Arithmatic_operation" />
+        <item itemvalue="Application._08_Simple_Interest" />
+        <item itemvalue="Application._07_PrintMessage" />
+        <item itemvalue="Application._06_CheckEvenOdd" />
+        <item itemvalue="Application._04_Ternary_Operator" />
       </list>
     </recent_temporary>
   </component>
