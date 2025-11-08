@@ -39,28 +39,34 @@
   "keyToString": {
     "Application.Hello.executor": "Run",
     "Application._01_AddString.executor": "Run",
+    "Application._01_Array.executor": "Run",
     "Application._01_CheckPrime.executor": "Debug",
     "Application._01_Datatype.executor": "Run",
     "Application._01_EvenOdd.executor": "Run",
     "Application._01_Find_Largest_one.executor": "Run",
+    "Application._01_Find_Target_In_Array.executor": "Run",
     "Application._01_For_Loop.executor": "Run",
     "Application._01_Function_info.executor": "Run",
     "Application._01_If_Else.executor": "Run",
     "Application._01_LeapYear.executor": "Run",
     "Application._01_SumOfNaturalNumber.executor": "Run",
     "Application._01_validUser.executor": "Run",
+    "Application._02_1Dimension_Array.executor": "Run",
     "Application._02_AreaOfCircle.executor": "Run",
     "Application._02_Calculator.executor": "Run",
     "Application._02_Else_If_Ladder.executor": "Run",
     "Application._02_Factorial.executor": "Run",
+    "Application._02_Find_Min_In_Array.executor": "Run",
     "Application._02_GreetingMsg.executor": "Run",
     "Application._02_SumOfTwo.executor": "Run",
     "Application._02_While_Loop (1).executor": "Run",
     "Application._02_While_Loop.executor": "Run",
     "Application._02_dayCheck.executor": "Run",
+    "Application._03_2Dimensional_Array.executor": "Run",
     "Application._03_AreaOfTriangle.executor": "Run",
     "Application._03_Area_Of_Circle.executor": "Run",
     "Application._03_Do_While.executor": "Run",
+    "Application._03_Find_Max_IN_Array.executor": "Run",
     "Application._03_MultiplicationTable.executor": "Run",
     "Application._03_Nested_If_Else.executor": "Run",
     "Application._03_SimpleInterest.executor": "Run",
@@ -68,6 +74,7 @@
     "Application._03_Type_casting.executor": "Run",
     "Application._04_Area_of_Triangle.executor": "Run",
     "Application._04_Basic_Calculator.executor": "Run",
+    "Application._04_Find_Sum_Of_All.executor": "Run",
     "Application._04_HCM.executor": "Run",
     "Application._04_PrimeNumber.executor": "Run",
     "Application._04_Ternary_Operator.executor": "Run",
@@ -75,12 +82,15 @@
     "Application._05_Count_Digit.executor": "Run",
     "Application._05_FindCalculation.executor": "Run",
     "Application._05_FindGreaterOne.executor": "Run",
+    "Application._05_Reverse_Print_Array.executor": "Run",
     "Application._05_SwitchCase.executor": "Run",
     "Application._06_Area_of_Square.executor": "Run",
     "Application._06_CheckEvenOdd.executor": "Run",
+    "Application._06_Reverse_Per_element.executor": "Run",
     "Application._06_Sum_of_Digit.executor": "Run",
     "Application._06_indiaToUsaConvertor.executor": "Run",
     "Application._06_new_Switch_Version.executor": "Run",
+    "Application._07_Even_Odd_Action.executor": "Run",
     "Application._07_FibonnacciSeriesTillN.executor": "Run",
     "Application._07_Perimeter_of_Rectangle.executor": "Run",
     "Application._07_PrintMessage.executor": "Run",
@@ -108,38 +118,17 @@
     "last_opened_file_path": "C:/Users/ASUS/OneDrive/Desktop/Java_Practice",
     "onboarding.tips.debug.path": "C:/Users/ASUS/OneDrive/Desktop/Java_Practice/_01_basic/src/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._01_Function_info">
-    <configuration name="_01_Function_info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Function_info" />
-      <module name="_04_Function" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_05_SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_SwitchCase" />
-      <module name="02_DecisionMaking" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06_new_Switch_Version" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_new_Switch_Version" />
-      <module name="02_DecisionMaking" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_10_Take_Input_0_enter_showSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._10_Take_Input_0_enter_showSum" />
-      <module name="_03_Loops" />
+  <component name="RunManager" selected="Application._07_Even_Odd_Action">
+    <configuration name="_03_Find_Max_IN_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._03_Find_Max_IN_Array" />
+      <module name="_05_Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +136,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11_Number_of_occurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._11_Number_of_occurence" />
-      <module name="_03_Loops" />
+    <configuration name="_04_Find_Sum_Of_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._04_Find_Sum_Of_All" />
+      <module name="_05_Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05_Reverse_Print_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._05_Reverse_Print_Array" />
+      <module name="_05_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06_Reverse_Per_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._06_Reverse_Per_element" />
+      <module name="_05_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_Even_Odd_Action" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._07_Even_Odd_Action" />
+      <module name="_05_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._01_Function_info" />
-        <item itemvalue="Application._06_new_Switch_Version" />
-        <item itemvalue="Application._05_SwitchCase" />
-        <item itemvalue="Application._11_Number_of_occurence" />
-        <item itemvalue="Application._10_Take_Input_0_enter_showSum" />
+        <item itemvalue="Application._07_Even_Odd_Action" />
+        <item itemvalue="Application._06_Reverse_Per_element" />
+        <item itemvalue="Application._05_Reverse_Print_Array" />
+        <item itemvalue="Application._04_Find_Sum_Of_All" />
+        <item itemvalue="Application._03_Find_Max_IN_Array" />
       </list>
     </recent_temporary>
   </component>
