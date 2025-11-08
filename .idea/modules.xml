@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Practice.iml" filepath="$PROJECT_DIR$/.idea/Java_Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/_01_basic.iml" filepath="$PROJECT_DIR$/_01_basic/_01_basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/_03_Loops/_03_Loops.iml" filepath="$PROJECT_DIR$/_03_Loops/_03_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_Function/_04_Function.iml" filepath="$PROJECT_DIR$/_04_Function/_04_Function.iml" />
     </modules>
   </component>
 </project>

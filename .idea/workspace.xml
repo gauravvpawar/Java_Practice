@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_Loops/src/Practice/_04_PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/_03_Loops/src/Practice/_04_PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "Application._01_EvenOdd.executor": "Run",
     "Application._01_Find_Largest_one.executor": "Run",
     "Application._01_For_Loop.executor": "Run",
+    "Application._01_Function_info.executor": "Run",
     "Application._01_If_Else.executor": "Run",
     "Application._01_LeapYear.executor": "Run",
     "Application._01_SumOfNaturalNumber.executor": "Run",
@@ -74,10 +75,12 @@
     "Application._05_Count_Digit.executor": "Run",
     "Application._05_FindCalculation.executor": "Run",
     "Application._05_FindGreaterOne.executor": "Run",
+    "Application._05_SwitchCase.executor": "Run",
     "Application._06_Area_of_Square.executor": "Run",
     "Application._06_CheckEvenOdd.executor": "Run",
     "Application._06_Sum_of_Digit.executor": "Run",
     "Application._06_indiaToUsaConvertor.executor": "Run",
+    "Application._06_new_Switch_Version.executor": "Run",
     "Application._07_FibonnacciSeriesTillN.executor": "Run",
     "Application._07_Perimeter_of_Rectangle.executor": "Run",
     "Application._07_PrintMessage.executor": "Run",
@@ -92,6 +95,7 @@
     "Application._10_Take_Input_0_enter_showSum.executor": "Run",
     "Application._10_TargetNumOccur.executor": "Run",
     "Application._11_Currency_Convertor.executor": "Run",
+    "Application._11_Number_of_occurence.executor": "Run",
     "Application._11_ReverseDigit.executor": "Run",
     "Application._12_Fibonacci_Series.executor": "Run",
     "Application._13_String_Palindrome.executor": "Run",
@@ -108,42 +112,24 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._11_Number_of_occurence">
-    <configuration name="_07_Reverse_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._07_Reverse_Number" />
-      <module name="_03_Loops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application._01_Function_info">
+    <configuration name="_01_Function_info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Function_info" />
+      <module name="_04_Function" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_08_Check_Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._08_Check_Palindrome_Number" />
-      <module name="_03_Loops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="_05_SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05_SwitchCase" />
+      <module name="02_DecisionMaking" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_09_Return_sub_of_mul_and_sum_of_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._09_Return_sub_of_mul_and_sum_of_number" />
-      <module name="_03_Loops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="_06_new_Switch_Version" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_new_Switch_Version" />
+      <module name="02_DecisionMaking" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._01_Function_info" />
+        <item itemvalue="Application._06_new_Switch_Version" />
+        <item itemvalue="Application._05_SwitchCase" />
         <item itemvalue="Application._11_Number_of_occurence" />
         <item itemvalue="Application._10_Take_Input_0_enter_showSum" />
-        <item itemvalue="Application._09_Return_sub_of_mul_and_sum_of_number" />
-        <item itemvalue="Application._08_Check_Palindrome_Number" />
-        <item itemvalue="Application._07_Reverse_Number" />
       </list>
     </recent_temporary>
   </component>
