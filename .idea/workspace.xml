@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,8 +107,15 @@
     "Application._11_Number_of_occurence.executor": "Run",
     "Application._11_ReverseDigit.executor": "Run",
     "Application._12_Fibonacci_Series.executor": "Run",
+    "Application._12_Find_Factorial.executor": "Run",
+    "Application._13_Print_Largest_One.executor": "Run",
     "Application._13_String_Palindrome.executor": "Run",
     "Application._14_ArmstrongNumber.executor": "Run",
+    "Application._14_Average_of_N_Number.executor": "Run",
+    "Application._15_Distance_between_two.executor": "Run",
+    "Application._16_Power_Find.executor": "Run",
+    "Application._17_Count_Days.executor": "Run",
+    "Application._18_Number_Problem.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -122,13 +128,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._07_Even_Odd_Action">
-    <configuration name="_03_Find_Max_IN_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._03_Find_Max_IN_Array" />
-      <module name="_05_Arrays" />
+  <component name="RunManager" selected="Application._18_Number_Problem">
+    <configuration name="_14_Average_of_N_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._14_Average_of_N_Number" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Find_Sum_Of_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._04_Find_Sum_Of_All" />
-      <module name="_05_Arrays" />
+    <configuration name="_15_Distance_between_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._15_Distance_between_two" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_Reverse_Print_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._05_Reverse_Print_Array" />
-      <module name="_05_Arrays" />
+    <configuration name="_16_Power_Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._16_Power_Find" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_06_Reverse_Per_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._06_Reverse_Per_element" />
-      <module name="_05_Arrays" />
+    <configuration name="_17_Count_Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._17_Count_Days" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_Even_Odd_Action" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1Dimesion_Array_Problems._07_Even_Odd_Action" />
-      <module name="_05_Arrays" />
+    <configuration name="_18_Number_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice._18_Number_Problem" />
+      <module name="_03_Loops" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1Dimesion_Array_Problems.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._07_Even_Odd_Action" />
-        <item itemvalue="Application._06_Reverse_Per_element" />
-        <item itemvalue="Application._05_Reverse_Print_Array" />
-        <item itemvalue="Application._04_Find_Sum_Of_All" />
-        <item itemvalue="Application._03_Find_Max_IN_Array" />
+        <item itemvalue="Application._18_Number_Problem" />
+        <item itemvalue="Application._17_Count_Days" />
+        <item itemvalue="Application._16_Power_Find" />
+        <item itemvalue="Application._15_Distance_between_two" />
+        <item itemvalue="Application._14_Average_of_N_Number" />
       </list>
     </recent_temporary>
   </component>
