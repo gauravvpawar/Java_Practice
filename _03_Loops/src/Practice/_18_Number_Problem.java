@@ -4,7 +4,6 @@ package Practice;
 // positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 
 import java.util.Scanner;
-
 public class _18_Number_Problem
 {
     public static void main(String[] args) {

@@ -5,7 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_01_Print_Max_And_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_02_Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_03_Eligible_for_vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_04_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_05_Product_Of_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_06_Circumference_Of_Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_07_Check_Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_08_Grade_Decide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_09_Find_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_10_Number_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_11_Pythagoras_Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_12_All_Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/Practice_Question/_13_Sum_Of_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/_02_Scope_Of_variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/_03_Block_Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/_04_Shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/_05_Call_By_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Function/src/_06_Call_By_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_01_Print_Max_And_Min.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_02_Even_Odd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_03_Eligible_for_vote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_04_Operations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_05_Product_Of_num.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_06_Circumference_Of_Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_07_Check_Prime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_08_Grade_Decide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_09_Find_Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_10_Number_Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_11_Pythagoras_Find.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_12_All_Prime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/Practice_Question/_13_Sum_Of_N.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/_02_Scope_Of_variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/_03_Block_Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/_04_Shadowing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/_05_Call_By_value.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_Function/_06_Call_By_Reference.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_Loops/src/Practice/_18_Number_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/_03_Loops/src/Practice/_18_Number_Problem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +85,14 @@
     "Application._01_Function_info.executor": "Run",
     "Application._01_If_Else.executor": "Run",
     "Application._01_LeapYear.executor": "Run",
+    "Application._01_Print_Max_And_Min.executor": "Run",
     "Application._01_SumOfNaturalNumber.executor": "Run",
     "Application._01_validUser.executor": "Run",
     "Application._02_1Dimension_Array.executor": "Run",
     "Application._02_AreaOfCircle.executor": "Run",
     "Application._02_Calculator.executor": "Run",
     "Application._02_Else_If_Ladder.executor": "Run",
+    "Application._02_Even_Odd.executor": "Run",
     "Application._02_Factorial.executor": "Run",
     "Application._02_Find_Min_In_Array.executor": "Run",
     "Application._02_GreetingMsg.executor": "Run",
@@ -64,7 +103,9 @@
     "Application._03_2Dimensional_Array.executor": "Run",
     "Application._03_AreaOfTriangle.executor": "Run",
     "Application._03_Area_Of_Circle.executor": "Run",
+    "Application._03_Block_Scope.executor": "Run",
     "Application._03_Do_While.executor": "Run",
+    "Application._03_Eligible_for_vote.executor": "Run",
     "Application._03_Find_Max_IN_Array.executor": "Run",
     "Application._03_MultiplicationTable.executor": "Run",
     "Application._03_Nested_If_Else.executor": "Run",
@@ -75,41 +116,55 @@
     "Application._04_Basic_Calculator.executor": "Run",
     "Application._04_Find_Sum_Of_All.executor": "Run",
     "Application._04_HCM.executor": "Run",
+    "Application._04_Operations.executor": "Run",
     "Application._04_PrimeNumber.executor": "Run",
+    "Application._04_Shadowing.executor": "Run",
     "Application._04_Ternary_Operator.executor": "Run",
     "Application._05_Area_Of_Triangle.executor": "Run",
+    "Application._05_Call_By_value.executor": "Run",
     "Application._05_Count_Digit.executor": "Run",
     "Application._05_FindCalculation.executor": "Run",
     "Application._05_FindGreaterOne.executor": "Run",
+    "Application._05_Product_Of_num.executor": "Run",
     "Application._05_Reverse_Print_Array.executor": "Run",
     "Application._05_SwitchCase.executor": "Run",
     "Application._06_Area_of_Square.executor": "Run",
+    "Application._06_Call_By_Reference.executor": "Run",
     "Application._06_CheckEvenOdd.executor": "Run",
+    "Application._06_Circumference_Of_Circle.executor": "Run",
     "Application._06_Reverse_Per_element.executor": "Run",
     "Application._06_Sum_of_Digit.executor": "Run",
     "Application._06_indiaToUsaConvertor.executor": "Run",
     "Application._06_new_Switch_Version.executor": "Run",
+    "Application._07_Check_Prime.executor": "Run",
     "Application._07_Even_Odd_Action.executor": "Run",
     "Application._07_FibonnacciSeriesTillN.executor": "Run",
+    "Application._07_Method_Overriding.executor": "Run",
     "Application._07_Perimeter_of_Rectangle.executor": "Run",
     "Application._07_PrintMessage.executor": "Run",
     "Application._07_Reverse_Number.executor": "Run",
     "Application._08_Check_Palindrome_Number.executor": "Run",
+    "Application._08_Grade_Decide.executor": "Run",
     "Application._08_PalindromeString.executor": "Run",
     "Application._08_Simple_Interest.executor": "Run",
     "Application._09_Arithmatic_operation.executor": "Run",
     "Application._09_ArmstrongNumber.executor": "Run",
+    "Application._09_Find_Factorial.executor": "Run",
     "Application._09_Return_sub_of_mul_and_sum_of_number.executor": "Run",
+    "Application._10_Number_Palindrome.executor": "Run",
     "Application._10_Print_Largest_One.executor": "Run",
     "Application._10_Take_Input_0_enter_showSum.executor": "Run",
     "Application._10_TargetNumOccur.executor": "Run",
     "Application._11_Currency_Convertor.executor": "Run",
     "Application._11_Number_of_occurence.executor": "Run",
+    "Application._11_Pythagoras_Find.executor": "Run",
     "Application._11_ReverseDigit.executor": "Run",
+    "Application._12_All_Prime.executor": "Run",
     "Application._12_Fibonacci_Series.executor": "Run",
     "Application._12_Find_Factorial.executor": "Run",
     "Application._13_Print_Largest_One.executor": "Run",
     "Application._13_String_Palindrome.executor": "Run",
+    "Application._13_Sum_Of_N.executor": "Run",
     "Application._14_ArmstrongNumber.executor": "Run",
     "Application._14_Average_of_N_Number.executor": "Run",
     "Application._15_Distance_between_two.executor": "Run",
@@ -128,13 +183,20 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._18_Number_Problem">
-    <configuration name="_14_Average_of_N_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._14_Average_of_N_Number" />
-      <module name="_03_Loops" />
+  <component name="RunManager" selected="Application._08_Variable_Arguments">
+    <configuration name="_07_Method_Overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_Method_Overriding" />
+      <module name="_04_Function" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08_Variable_Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Question._08_Variable_Arguments" />
+      <module name="_04_Function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Practice_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_15_Distance_between_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._15_Distance_between_two" />
-      <module name="_03_Loops" />
+    <configuration name="_11_Pythagoras_Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Question._11_Pythagoras_Find" />
+      <module name="_04_Function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Practice_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_16_Power_Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._16_Power_Find" />
-      <module name="_03_Loops" />
+    <configuration name="_12_All_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Question._12_All_Prime" />
+      <module name="_04_Function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Practice_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,25 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_17_Count_Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._17_Count_Days" />
-      <module name="_03_Loops" />
+    <configuration name="_13_Sum_Of_N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Question._13_Sum_Of_N" />
+      <module name="_04_Function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_18_Number_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice._18_Number_Problem" />
-      <module name="_03_Loops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Practice_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._18_Number_Problem" />
-        <item itemvalue="Application._17_Count_Days" />
-        <item itemvalue="Application._16_Power_Find" />
-        <item itemvalue="Application._15_Distance_between_two" />
-        <item itemvalue="Application._14_Average_of_N_Number" />
+        <item itemvalue="Application._08_Variable_Arguments" />
+        <item itemvalue="Application._07_Method_Overriding" />
+        <item itemvalue="Application._13_Sum_Of_N" />
+        <item itemvalue="Application._12_All_Prime" />
+        <item itemvalue="Application._11_Pythagoras_Find" />
       </list>
     </recent_temporary>
   </component>
