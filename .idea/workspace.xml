@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +112,7 @@
     "Application._06_CheckEvenOdd.executor": "Run",
     "Application._06_Circumference_Of_Circle.executor": "Run",
     "Application._06_Reverse_Per_element.executor": "Run",
+    "Application._06_String_Present.executor": "Run",
     "Application._06_Sum_of_Digit.executor": "Run",
     "Application._06_indiaToUsaConvertor.executor": "Run",
     "Application._06_new_Switch_Version.executor": "Run",
@@ -123,7 +123,9 @@
     "Application._07_Perimeter_of_Rectangle.executor": "Run",
     "Application._07_PrintMessage.executor": "Run",
     "Application._07_Reverse_Number.executor": "Run",
+    "Application._07_Reverse_Original_Array.executor": "Run",
     "Application._08_Check_Palindrome_Number.executor": "Run",
+    "Application._08_Find_Pairs_In_Array.executor": "Run",
     "Application._08_Grade_Decide.executor": "Run",
     "Application._08_PalindromeString.executor": "Run",
     "Application._08_Reverse_Array.executor": "Run",
@@ -165,7 +167,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._01_String_Palindrome">
+  <component name="RunManager" selected="Application._08_Find_Pairs_In_Array">
     <configuration name="_01_String_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_String_Question._01_String_Palindrome" />
       <module name="_07_String" />
@@ -179,33 +181,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_Binary_Search" />
-      <module name="_06_Searching" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_02_String_Immutability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_String_Immutability" />
-      <module name="_07_String" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03_String_Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_String_Comparison" />
-      <module name="_07_String" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_04_StringBuffer_And_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_04_StringBuffer_And_Builder" />
       <module name="_07_String" />
@@ -213,13 +188,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_06_String_Present" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._06_String_Present" />
+      <module name="_06_Searching" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_Reverse_Original_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._07_Reverse_Original_Array" />
+      <module name="_06_Searching" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08_Find_Pairs_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._08_Find_Pairs_In_Array" />
+      <module name="_06_Searching" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._08_Find_Pairs_In_Array" />
+        <item itemvalue="Application._07_Reverse_Original_Array" />
+        <item itemvalue="Application._06_String_Present" />
         <item itemvalue="Application._01_String_Palindrome" />
         <item itemvalue="Application._04_StringBuffer_And_Builder" />
-        <item itemvalue="Application._03_String_Comparison" />
-        <item itemvalue="Application._02_String_Immutability" />
-        <item itemvalue="Application._02_Binary_Search" />
       </list>
     </recent_temporary>
   </component>
