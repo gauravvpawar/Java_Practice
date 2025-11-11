@@ -53,6 +53,7 @@
     "Application._01_LeapYear.executor": "Run",
     "Application._01_Linear_Search.executor": "Run",
     "Application._01_Print_Max_And_Min.executor": "Run",
+    "Application._01_String_Palindrome.executor": "Run",
     "Application._01_SumOfNaturalNumber.executor": "Run",
     "Application._01_validUser.executor": "Run",
     "Application._02_1Dimension_Array.executor": "Run",
@@ -65,6 +66,7 @@
     "Application._02_Factorial.executor": "Run",
     "Application._02_Find_Min_In_Array.executor": "Run",
     "Application._02_GreetingMsg.executor": "Run",
+    "Application._02_String_Immutability.executor": "Run",
     "Application._02_SumOfTwo.executor": "Run",
     "Application._02_While_Loop (1).executor": "Run",
     "Application._02_While_Loop.executor": "Run",
@@ -82,6 +84,7 @@
     "Application._03_MultiplicationTable.executor": "Run",
     "Application._03_Nested_If_Else.executor": "Run",
     "Application._03_SimpleInterest.executor": "Run",
+    "Application._03_String_Comparison.executor": "Run",
     "Application._03_SumOfNeven.executor": "Run",
     "Application._03_Type_casting.executor": "Run",
     "Application._04_Area_of_Triangle.executor": "Run",
@@ -93,6 +96,7 @@
     "Application._04_PrimeNumber.executor": "Run",
     "Application._04_Print_Array_Another_way.executor": "Run",
     "Application._04_Shadowing.executor": "Run",
+    "Application._04_StringBuffer_And_Builder.executor": "Run",
     "Application._04_Ternary_Operator.executor": "Run",
     "Application._05_Area_Of_Triangle.executor": "Run",
     "Application._05_Call_By_value.executor": "Run",
@@ -161,13 +165,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._02_Binary_Search">
-    <configuration name="_01_Find_Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._01_Find_Min" />
-      <module name="_06_Searching" />
+  <component name="RunManager" selected="Application._01_String_Palindrome">
+    <configuration name="_01_String_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_String_Question._01_String_Palindrome" />
+      <module name="_07_String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
+          <option name="PATTERN" value="_String_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +180,11 @@
       </method>
     </configuration>
     <configuration name="_02_Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._02_Binary_Search" />
+      <option name="MAIN_CLASS_NAME" value="_02_Binary_Search" />
       <module name="_06_Searching" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,52 +192,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_Find_String_Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._03_Find_String_Target" />
-      <module name="_06_Searching" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="_02_String_Immutability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_String_Immutability" />
+      <module name="_07_String" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Even_Digit_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._04_Even_Digit_Count" />
-      <module name="_06_Searching" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="_03_String_Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_String_Comparison" />
+      <module name="_07_String" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_Max_Wealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Linear_Search_Problem._05_Max_Wealth" />
-      <module name="_06_Searching" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01_Linear_Search_Problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="_04_StringBuffer_And_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_StringBuffer_And_Builder" />
+      <module name="_07_String" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._01_String_Palindrome" />
+        <item itemvalue="Application._04_StringBuffer_And_Builder" />
+        <item itemvalue="Application._03_String_Comparison" />
+        <item itemvalue="Application._02_String_Immutability" />
         <item itemvalue="Application._02_Binary_Search" />
-        <item itemvalue="Application._05_Max_Wealth" />
-        <item itemvalue="Application._04_Even_Digit_Count" />
-        <item itemvalue="Application._03_Find_String_Target" />
-        <item itemvalue="Application._01_Find_Min" />
       </list>
     </recent_temporary>
   </component>
