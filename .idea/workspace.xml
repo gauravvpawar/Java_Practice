@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6047a970-cc37-4585-96cd-94f299a9cd51" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_08_OOPS/src/_03_Inheritance/_04_Hierarchical_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/_08_OOPS/src/_03_Inheritance/_04_Hierarchical_Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,160 +34,166 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_AddString.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Addition_Of_Two.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_CheckPrime.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._01_Class_Object_.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Find_Largest_one.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Find_Min.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Find_Target_In_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_For_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Function_info.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_If_Else.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Linear_Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Print_Max_And_Min.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_String_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_SumOfNaturalNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_validUser.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_1Dimension_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_AreaOfCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Binary_Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Copy_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Default_Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Else_If_Ladder.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Even_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Find_Min_In_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_GreetingMsg.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Person_Dreams (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_Person_Dreams.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_String_Immutability.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_SumOfTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_While_Loop (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_While_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_dayCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_2Dimensional_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_AreaOfTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Area_Of_Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Block_Scope.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Do_While.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Eligible_for_vote.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Even_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Find_Max_IN_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Find_String_Target.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Multi_Dimension_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Multi_level_inheritance (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Multi_level_inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Nested_If_Else.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Parameterised_Constructor (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Parameterised_Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_SimpleInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_String_Comparison.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_SumOfNeven.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_Type_casting.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Area_of_Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Basic_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Copy_Constructor (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Copy_Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Even_Digit_Count.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Find_Sum_Of_All.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_HCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Print_Array_Another_way.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Shadowing.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_StringBuffer_And_Builder.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_Ternary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_Area_Of_Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_Call_By_value.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_Count_Digit.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_FindCalculation.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_FindGreaterOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_Jagged_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_Max_Wealth.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_Product_Of_num.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_Reverse_Print_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_SwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_This_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_Area_of_Square.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_Call_By_Reference.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_CheckEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_Circumference_Of_Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_Constructor_Overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_Reverse_Per_element.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_String_Present.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_Sum_of_Digit.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_indiaToUsaConvertor.executor&quot;: &quot;Run&quot;,
-    &quot;Application._06_new_Switch_Version.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_Check_Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_Even_Odd_Action.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_FibonnacciSeriesTillN.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_Method_Overriding.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_Perimeter_of_Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_PrintMessage.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_Reverse_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_Reverse_Original_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Check_Palindrome_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Find_Pairs_In_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Grade_Decide.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_PalindromeString.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Reverse_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Simple_Interest.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_Variable_Arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Application._09_Arithmatic_operation.executor&quot;: &quot;Run&quot;,
-    &quot;Application._09_ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application._09_Find_Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application._09_Return_sub_of_mul_and_sum_of_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_Number_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_Print_Largest_One.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_Take_Input_0_enter_showSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_TargetNumOccur.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_Currency_Convertor.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_Number_of_occurence.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_Pythagoras_Find.executor&quot;: &quot;Run&quot;,
-    &quot;Application._11_ReverseDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application._12_All_Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Application._12_Fibonacci_Series.executor&quot;: &quot;Run&quot;,
-    &quot;Application._12_Find_Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application._13_Print_Largest_One.executor&quot;: &quot;Run&quot;,
-    &quot;Application._13_String_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application._13_Sum_Of_N.executor&quot;: &quot;Run&quot;,
-    &quot;Application._14_ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application._14_Average_of_N_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._15_Distance_between_two.executor&quot;: &quot;Run&quot;,
-    &quot;Application._16_Power_Find.executor&quot;: &quot;Run&quot;,
-    &quot;Application._17_Count_Days.executor&quot;: &quot;Run&quot;,
-    &quot;Application._18_Number_Problem.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/OneDrive/Desktop/Java_Practice&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ASUS/OneDrive/Desktop/Java_Practice/_01_basic/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Hello.executor": "Run",
+    "Application._01_AddString.executor": "Run",
+    "Application._01_Addition_Of_Two.executor": "Run",
+    "Application._01_Array.executor": "Run",
+    "Application._01_CheckPrime.executor": "Debug",
+    "Application._01_Class_Object_.executor": "Run",
+    "Application._01_Constructor.executor": "Run",
+    "Application._01_Datatype.executor": "Run",
+    "Application._01_EvenOdd.executor": "Run",
+    "Application._01_Find_Largest_one.executor": "Run",
+    "Application._01_Find_Min.executor": "Run",
+    "Application._01_Find_Target_In_Array.executor": "Run",
+    "Application._01_For_Loop.executor": "Run",
+    "Application._01_Function_info.executor": "Run",
+    "Application._01_If_Else.executor": "Run",
+    "Application._01_Inheritance.executor": "Run",
+    "Application._01_LeapYear.executor": "Run",
+    "Application._01_Linear_Search.executor": "Run",
+    "Application._01_Print_Max_And_Min.executor": "Run",
+    "Application._01_String_Palindrome.executor": "Run",
+    "Application._01_SumOfNaturalNumber.executor": "Run",
+    "Application._01_validUser.executor": "Run",
+    "Application._02_1Dimension_Array.executor": "Run",
+    "Application._02_AreaOfCircle.executor": "Run",
+    "Application._02_Binary_Search.executor": "Run",
+    "Application._02_Calculator.executor": "Run",
+    "Application._02_Copy_Array.executor": "Run",
+    "Application._02_Default_Constructor.executor": "Run",
+    "Application._02_Else_If_Ladder.executor": "Run",
+    "Application._02_Even_Odd.executor": "Run",
+    "Application._02_Factorial.executor": "Run",
+    "Application._02_Find_Min_In_Array.executor": "Run",
+    "Application._02_GreetingMsg.executor": "Run",
+    "Application._02_Interface (1).executor": "Run",
+    "Application._02_Interface.executor": "Run",
+    "Application._02_Person_Dreams (1).executor": "Run",
+    "Application._02_Person_Dreams.executor": "Run",
+    "Application._02_String_Immutability.executor": "Run",
+    "Application._02_SumOfTwo.executor": "Run",
+    "Application._02_While_Loop (1).executor": "Run",
+    "Application._02_While_Loop.executor": "Run",
+    "Application._02_dayCheck.executor": "Run",
+    "Application._03_2Dimensional_Array.executor": "Run",
+    "Application._03_Abstract_Class.executor": "Run",
+    "Application._03_AreaOfTriangle.executor": "Run",
+    "Application._03_Area_Of_Circle.executor": "Run",
+    "Application._03_Block_Scope.executor": "Run",
+    "Application._03_Do_While.executor": "Run",
+    "Application._03_Eligible_for_vote.executor": "Run",
+    "Application._03_Even_Sum.executor": "Run",
+    "Application._03_Find_Max_IN_Array.executor": "Run",
+    "Application._03_Find_String_Target.executor": "Run",
+    "Application._03_Multi_Dimension_Array.executor": "Run",
+    "Application._03_Multi_level_inheritance (1).executor": "Run",
+    "Application._03_Multi_level_inheritance.executor": "Run",
+    "Application._03_MultiplicationTable.executor": "Run",
+    "Application._03_Nested_If_Else.executor": "Run",
+    "Application._03_Parameterised_Constructor (1).executor": "Run",
+    "Application._03_Parameterised_Constructor.executor": "Run",
+    "Application._03_SimpleInterest.executor": "Run",
+    "Application._03_String_Comparison.executor": "Run",
+    "Application._03_SumOfNeven.executor": "Run",
+    "Application._03_Type_casting.executor": "Run",
+    "Application._04_Area_of_Triangle.executor": "Run",
+    "Application._04_Basic_Calculator.executor": "Run",
+    "Application._04_Copy_Constructor (1).executor": "Run",
+    "Application._04_Copy_Constructor.executor": "Run",
+    "Application._04_Even_Digit_Count.executor": "Run",
+    "Application._04_Find_Sum_Of_All.executor": "Run",
+    "Application._04_HCM.executor": "Run",
+    "Application._04_Hierarchical_Inheritance (1).executor": "Run",
+    "Application._04_Hierarchical_Inheritance (2).executor": "Run",
+    "Application._04_Hierarchical_Inheritance.executor": "Run",
+    "Application._04_Operations.executor": "Run",
+    "Application._04_PrimeNumber.executor": "Run",
+    "Application._04_Print_Array_Another_way.executor": "Run",
+    "Application._04_Shadowing.executor": "Run",
+    "Application._04_StringBuffer_And_Builder.executor": "Run",
+    "Application._04_Ternary_Operator.executor": "Run",
+    "Application._05_Area_Of_Triangle.executor": "Run",
+    "Application._05_Call_By_value.executor": "Run",
+    "Application._05_Count_Digit.executor": "Run",
+    "Application._05_FindCalculation.executor": "Run",
+    "Application._05_FindGreaterOne.executor": "Run",
+    "Application._05_Jagged_Array.executor": "Run",
+    "Application._05_Max_Wealth.executor": "Run",
+    "Application._05_Product_Of_num.executor": "Run",
+    "Application._05_Reverse_Print_Array.executor": "Run",
+    "Application._05_SwitchCase.executor": "Run",
+    "Application._05_This_Keyword.executor": "Run",
+    "Application._06_Area_of_Square.executor": "Run",
+    "Application._06_Call_By_Reference.executor": "Run",
+    "Application._06_CheckEvenOdd.executor": "Run",
+    "Application._06_Circumference_Of_Circle.executor": "Run",
+    "Application._06_Constructor_Overloading.executor": "Run",
+    "Application._06_Reverse_Per_element.executor": "Run",
+    "Application._06_String_Present.executor": "Run",
+    "Application._06_Sum_of_Digit.executor": "Run",
+    "Application._06_indiaToUsaConvertor.executor": "Run",
+    "Application._06_new_Switch_Version.executor": "Run",
+    "Application._07_Check_Prime.executor": "Run",
+    "Application._07_Even_Odd_Action.executor": "Run",
+    "Application._07_FibonnacciSeriesTillN.executor": "Run",
+    "Application._07_Method_Overriding.executor": "Run",
+    "Application._07_Perimeter_of_Rectangle.executor": "Run",
+    "Application._07_PrintMessage.executor": "Run",
+    "Application._07_Reverse_Number.executor": "Run",
+    "Application._07_Reverse_Original_Array.executor": "Run",
+    "Application._08_Check_Palindrome_Number.executor": "Run",
+    "Application._08_Find_Pairs_In_Array.executor": "Run",
+    "Application._08_Grade_Decide.executor": "Run",
+    "Application._08_PalindromeString.executor": "Run",
+    "Application._08_Reverse_Array.executor": "Run",
+    "Application._08_Simple_Interest.executor": "Run",
+    "Application._08_Variable_Arguments.executor": "Run",
+    "Application._09_Arithmatic_operation.executor": "Run",
+    "Application._09_ArmstrongNumber.executor": "Run",
+    "Application._09_Find_Factorial.executor": "Run",
+    "Application._09_Return_sub_of_mul_and_sum_of_number.executor": "Run",
+    "Application._10_Number_Palindrome.executor": "Run",
+    "Application._10_Print_Largest_One.executor": "Run",
+    "Application._10_Take_Input_0_enter_showSum.executor": "Run",
+    "Application._10_TargetNumOccur.executor": "Run",
+    "Application._11_Currency_Convertor.executor": "Run",
+    "Application._11_Number_of_occurence.executor": "Run",
+    "Application._11_Pythagoras_Find.executor": "Run",
+    "Application._11_ReverseDigit.executor": "Run",
+    "Application._12_All_Prime.executor": "Run",
+    "Application._12_Fibonacci_Series.executor": "Run",
+    "Application._12_Find_Factorial.executor": "Run",
+    "Application._13_Print_Largest_One.executor": "Run",
+    "Application._13_String_Palindrome.executor": "Run",
+    "Application._13_Sum_Of_N.executor": "Run",
+    "Application._14_ArmstrongNumber.executor": "Run",
+    "Application._14_Average_of_N_Number.executor": "Run",
+    "Application._15_Distance_between_two.executor": "Run",
+    "Application._16_Power_Find.executor": "Run",
+    "Application._17_Count_Days.executor": "Run",
+    "Application._18_Number_Problem.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ASUS/OneDrive/Desktop/Java_Practice",
+    "onboarding.tips.debug.path": "C:/Users/ASUS/OneDrive/Desktop/Java_Practice/_01_basic/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application._04_Hierarchical_Inheritance (2)">
-    <configuration name="_01_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Inheritance._01_Inheritance" />
+}]]></component>
+  <component name="RunManager" selected="Application._03_Abstract_Class">
+    <configuration name="_02_Interface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Abstraction._02_Interface" />
       <module name="_08_OOPS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_03_Inheritance.*" />
+          <option name="PATTERN" value="_04_Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +201,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_Multi_level_inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Inheritance._03_Multi_level_inheritance" />
+    <configuration name="_02_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Abstraction._02_Interface" />
       <module name="_08_OOPS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_03_Inheritance.*" />
+          <option name="PATTERN" value="_04_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_Abstract_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Abstraction._03_Abstract_Class" />
+      <module name="_08_OOPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_04_Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,26 +266,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Hierarchical_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Inheritance._04_Hierarchical_Inheritance" />
-      <module name="_08_OOPS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_03_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._03_Abstract_Class" />
+        <item itemvalue="Application._02_Interface (1)" />
+        <item itemvalue="Application._02_Interface" />
         <item itemvalue="Application._04_Hierarchical_Inheritance (2)" />
         <item itemvalue="Application._04_Hierarchical_Inheritance (1)" />
-        <item itemvalue="Application._04_Hierarchical_Inheritance" />
-        <item itemvalue="Application._03_Multi_level_inheritance" />
-        <item itemvalue="Application._01_Inheritance" />
       </list>
     </recent_temporary>
   </component>
