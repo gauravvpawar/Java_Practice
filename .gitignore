@@ -1,5 +1,5 @@
-# IntelliJ IDEA project files
+# Ignore IntelliJ IDEA project files
 .idea/
 
-# Build output directory (IntelliJ/Java)
+# Ignore build/output folder
 out/
