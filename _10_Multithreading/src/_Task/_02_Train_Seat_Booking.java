@@ -12,8 +12,8 @@ class Train
     {
         if(x < seatCount)
         {
+            System.out.println(x + " Seat Booked .... by " + Thread.currentThread().getName());
             seatCount = seatCount - x;
-            System.out.println("Seat Booked .... by " + Thread.currentThread().getName());
             System.out.println("Remaining seat : " + seatCount);
         }else{
             System.out.println("Not enough space");
