@@ -24,7 +24,7 @@ public class _01_Sleep
         /*
          Sleep() method in thread is used to pause the current execution of thread for some time in milliseconds
          it is static method you can call method with class name
-         It trows the interupt Exception when you call it compile time
+         It trows the interrupt Exception when you call it compile time
          */
 
         StudentCount s1 = new StudentCount();

@@ -1,3 +1,4 @@
+
 public class _01_Datatype
 {
     public static void main(String[] args) {
