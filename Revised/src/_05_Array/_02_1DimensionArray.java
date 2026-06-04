@@ -1,0 +1,30 @@
+package _05_Array;
+
+import java.util.Scanner;
+
+public class _02_1DimensionArray
+{
+    public static void main(String[] args) {
+        // single dimension array
+        // to declare the array
+        // data type reference variable name = new data_type[]
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the array size : ");
+        int num = sc.nextInt();
+
+        int[] arr = new int[num];
+
+        for(int i = 0;i<num;i++)
+        {
+            System.out.println("Enter the array " + i + " element : ");
+            arr[i] = sc.nextInt();
+        }
+
+        System.out.println("Original Array : ");
+        // to print the given array
+        for(int i = 0;i<num;i++)
+        {
+            System.out.print(arr[i] + " ");
+        }
+    }
+}

@@ -1,0 +1,41 @@
+package _05_Array._1SingleDimensionArray;
+
+import java.util.Scanner;
+
+public class _01_FindMaxElement
+{
+    public static void main(String[] args) {
+        // find the maximum element from given array
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the array size : ");
+        int n = sc.nextInt();
+
+        int arr[] = new int[n];
+
+        System.out.println("Enter the array element : ");
+        for(int i = 0;i<n;i++)
+        {
+            arr[i] = sc.nextInt();
+        }
+
+        System.out.println("Original Array : ");
+        for (int i = 0;i<n;i++)
+        {
+            System.out.print(arr[i] +" ");
+        }
+
+        int max = Integer.MIN_VALUE;
+
+        for(int i = 0;i<n;i++)
+        {
+            if(arr[i] > max)
+            {
+                max = arr[i];
+            }
+        }
+
+        System.out.println();
+        System.out.println("max element from given array : " + max);
+
+    }
+}
