@@ -32,7 +32,6 @@ public class _04_Stack
         while (i.hasNext()) {
             System.out.println(i.next());
         }
-
         s1.pop();
         System.out.println(s1);
         System.out.println(s1.peek()); // print the top element from stack
