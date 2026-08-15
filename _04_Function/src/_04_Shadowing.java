@@ -17,7 +17,7 @@ public class _04_Shadowing
         fun();
     }
 
-    public  static void fun()
+    public  static void fun() //  it print 100
     {
         System.out.println(a);
     }
