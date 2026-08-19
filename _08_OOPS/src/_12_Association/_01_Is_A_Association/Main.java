@@ -1,4 +1,4 @@
-package _10_OOPs._12_Association._01_Is_A_Association;
+package _12_Association._01_Is_A_Association;
 
 // IS A Association
 // it also called inheritance

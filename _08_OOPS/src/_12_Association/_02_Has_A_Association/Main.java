@@ -1,4 +1,4 @@
-package _10_OOPs._12_Association._02_Has_A_Association;
+package _12_Association._02_Has_A_Association;
 
 // has a relationship
 // it provide loose coupling between two class
