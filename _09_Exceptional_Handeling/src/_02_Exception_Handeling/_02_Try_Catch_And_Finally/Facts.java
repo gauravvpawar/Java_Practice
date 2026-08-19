@@ -11,7 +11,7 @@ public class Facts
         try
         {
             String name = null;
-            System.out.println(name.length());
+            System.out.println(name.length()); //  if you dont handle the exception occur at runtime
         }
         finally {
             System.out.println("Code ended");

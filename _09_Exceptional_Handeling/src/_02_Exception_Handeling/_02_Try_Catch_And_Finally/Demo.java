@@ -7,6 +7,7 @@ public class Demo
         Finally block is always execute in the  exception handling whether try block hit exception occur the  catch is run
         finally is always run
         finally  generally using for the closing the connection from database or the file reader
+        finally block will always execute even exception occur or not
          */
 
         int arr[] = {10  , 20 , 30 , 40, 50};

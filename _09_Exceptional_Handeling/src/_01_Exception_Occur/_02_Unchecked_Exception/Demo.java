@@ -4,7 +4,7 @@ public class Demo
 {
     public static void main(String[] args) {
         /*
-        unchecked exception occur during the compile time
+        unchecked exception occur during the runtime time
          */
 
         int arr[] = {10 , 20 , 30 , 40 , 50};
