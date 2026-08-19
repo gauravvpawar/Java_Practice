@@ -1,5 +1,6 @@
 package _04_Abstraction;
 
+// abstract class contain abstract method as well as non abstract method
 abstract class Bank
 {
     int numberaOfEmployee;

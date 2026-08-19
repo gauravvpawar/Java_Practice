@@ -1,6 +1,8 @@
 package _04_Abstraction;
 
 // you just provide the declaration of the  method
+// the variable assign you in interface is by default public static and final
+// in that at one line you have to declare and initialise
 interface ClientRequirement
 {
     void isLoggedIn();
