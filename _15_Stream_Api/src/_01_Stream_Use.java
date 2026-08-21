@@ -9,7 +9,7 @@ public class _01_Stream_Use
         /*
         Stream api introduce in java 8
         Stream api have multiple function to perform on object
-        when once object get consume of stream you have to create one
+        when once object get consume of stream you have to create new one stream
          */
 
         List<Integer> al1 =  Arrays.asList(10 , 20, 30 , 40);
