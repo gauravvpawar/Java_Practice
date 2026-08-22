@@ -10,7 +10,8 @@ public class _01_Demo
         /*
         Linked hash set -> it follow the insertion of element
         - only one null value is can valid in linkedHashSet
-        - you can enter Heterogeneous type of data
+        - you can enter Heterogeneous type of data normally
+        - by the generics we can specify which data we can store
          */
 
         LinkedHashSet hs = new LinkedHashSet();
@@ -20,6 +21,7 @@ public class _01_Demo
         hs.add(33);
         hs.add(null);
         hs.add(45);
+        hs.add(200); // while you add the existing data it just update the data
 
         System.out.println(hs);
 
