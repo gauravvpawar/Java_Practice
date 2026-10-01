@@ -11,8 +11,17 @@ public class _02_Scope_Of_variable
         // here we define the function fun variable you cant access the variable outside the other any block
         fun();
 //        System.out.println(a); you cant access it
+
+        // block scope
+        {
+            int score = 101;
+            System.out.println(score);
+        }
+
+//        System.out.println(score); //you can be not accessible outside the block
     }
 
+    // functional scope
     public  static  void fun()
     {
         int a = 10;

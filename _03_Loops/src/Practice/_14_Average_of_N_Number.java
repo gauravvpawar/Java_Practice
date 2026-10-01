@@ -11,9 +11,10 @@ public class _14_Average_of_N_Number
 
         String num;
         int sum = 0 , count = 0;
+        System.out.println("Enter the number : ");
         do
         {
-            System.out.println("Enter the number : ");
+            System.out.println("Enter the number or enter x print average of all: ");
             num = sc.next();
 
             if(num.equals("x"))

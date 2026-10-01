@@ -1,6 +1,6 @@
 public class _04_Shadowing
 {
-    // when you define the variable is always be a static variable for to dont nee to create object of class
+    // when you define the variable is always be a static variable for to dont need to create object of class
     static int a = 100;
     public static void main(String[] args) {
         /*
