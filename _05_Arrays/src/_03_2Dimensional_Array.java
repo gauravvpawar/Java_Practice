@@ -39,5 +39,15 @@ public class _03_2Dimensional_Array
             }
             System.out.println();
         }
+
+        System.out.println("Using enhanced for loop");
+        for(int r[] :arr )
+        {
+            for(int ele : r)
+            {
+                System.out.print(ele + " ");
+            }
+            System.out.println();
+        }
     }
 }

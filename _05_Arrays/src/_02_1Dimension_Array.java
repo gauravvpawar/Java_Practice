@@ -20,5 +20,13 @@ public class _02_1Dimension_Array
         {
             System.out.print(arr[i] + " ");
         }
+
+        System.out.println();
+        System.out.println("using enhanced for loop");
+        // enhanced for loop
+        for(int ele : arr)
+        {
+            System.out.print(ele + " ");
+        }
     }
 }

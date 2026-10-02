@@ -7,6 +7,7 @@ public class _04_Print_Array_Another_way
             to take each element and print it
          */
 
+        // it also called for each loop
         int arr[] = {10 , 20 , 30 , 40 , 50};
         for(int ele : arr)
         {

@@ -5,8 +5,9 @@ public class _01_Array
     public static void main(String[] args) {
         /*
             Array -> it is the collection of similar type of data also it known as the homogeneous type of data
-            adv -> Searching easily via indexing , sorting easily , random accessible ,
-            dis adv -> fixed size ,  memory unused , homogeneous type of data only
+            adv -> Searching easily via indexing , sorting easily , random accessible , code optimise
+            dis adv -> fixed size ,  memory unused , homogeneous type of data only , insertion and deletion of element it takes
+            complex time
             Array  always start with zero index and end with size -1
          */
 

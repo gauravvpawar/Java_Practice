@@ -5,6 +5,7 @@ public class _05_Jagged_Array
             In jagged array ->
                 jagged  array is same like matrix array ->
                  like 2d Array but each row have different number of column
+                 i.e in matrix array the number of row is mandatory but the number of column is not compulsory while declaration
          */
 
         int arr[][] = { {1,2,3} ,
