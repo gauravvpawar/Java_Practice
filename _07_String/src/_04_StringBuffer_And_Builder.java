@@ -3,8 +3,9 @@ public class _04_StringBuffer_And_Builder
     public static void main(String[] args) {
         /*
          String buffer and StringBuilder is used to create mutable type of string
-         String buffer  is synchronised i.e string buffer is slow
+         String buffer  is synchronised i.e string buffer is slow ,  also it is Thread safe
          Stringbuilder is not synchronised i.e string builder is faster than string buffer
+         StringBuilder is not thread safe
 
          you cant create a stringbuffer variable like literals you have to always use new keyword
          */

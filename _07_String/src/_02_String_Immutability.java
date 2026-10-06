@@ -3,6 +3,8 @@ public class _02_String_Immutability
     public static void main(String[] args) {
         /*
          String immutability you can reinitialise string but you cant changes make directly on string variable
+         it create the multiple object while changes each time
+         and unused variable delete using garbage collector
          */
 
         String name1 = "Hello";

@@ -8,6 +8,10 @@ public class _03_String_Comparison
                it always check the reference of the object
         2 -> .equals method
                 it check the content check only for object
+
+        . equals method is originally from the object class method
+        Object class .equals method it used to check the reference of the object
+        String class change the definition of object class
          */
 
         String name1 = "Hello";

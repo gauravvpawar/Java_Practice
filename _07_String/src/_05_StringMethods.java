@@ -62,8 +62,18 @@ public class _05_StringMethods
 
        */
 
+        // if we used String method it does not make changes directly into the value
+        String a = "mango";
+        a.replace('a' , 'p');
+        System.out.println(a);
+
+        // if we used String buffer and builder method it does make changes directly into the variable
+        StringBuffer b = new StringBuffer("carrot") ;
+        b.reverse();
+        System.out.println(b);
+
         StringBuilder str = new StringBuilder();
-        str.capacity();
+        str.capacity(); // 16
         System.out.println(str.capacity());
 
         StringBuffer str2 = new StringBuffer();
