@@ -1,5 +1,12 @@
 package _02_Constructor;
 
+
+class Company
+{
+    int empId;
+    String empName;
+}
+
 class Pen
 {
     int price;
@@ -29,6 +36,13 @@ public class _02_Default_Constructor
         Pen p1 = new Pen();
 
         Pen p2 = new Pen();
+
+        // even if the default parameter is there when you create the object
+        Company emp1 = new Company();
+        emp1.empId = 1212;
+        emp1.empName = "rakesh";
+        System.out.println(emp1.empId);
+        System.out.println(emp1.empName);
 
     }
 }

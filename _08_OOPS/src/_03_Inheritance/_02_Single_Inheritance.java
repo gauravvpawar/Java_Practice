@@ -22,6 +22,7 @@ public class _02_Single_Inheritance
         /*
             Single inheritance -> it is a is a relation
                 it have only one  derived class and one base class
+                parent class can not access the property of child class methods
          */
 
         Children ch = new Children();

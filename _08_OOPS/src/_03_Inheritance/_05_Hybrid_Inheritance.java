@@ -35,9 +35,10 @@ public class _05_Hybrid_Inheritance
 {
     public static void main(String[] args) {
         /*
-           - Java does not support Hybrid inheritance
+           - Java does support Hybrid inheritance
            -- we can support the hybrid by using single and multilevel with the help of hierarchical inheritance
            - java do not allow one class have multiple parent due to ambiguity problem
+           i . e we cant use the multiple inheritance
            - hybrid is the combination of two type or more type of inheritance
          */
 

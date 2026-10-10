@@ -9,6 +9,7 @@ class Birds{
 
     Birds()
     {
+        System.out.println("inside birds");
     }
 
 
@@ -33,8 +34,8 @@ public class _04_Copy_Constructor
         /*
             copy constructor ->
                 copy constructor is used for to initialise object with another object value
-                simple way -> to create the  clone of the object
-                when you define the any constructor you have to handle default constructor
+                simple way -> to create the  clone of the object from another object value
+                when you define the any constructor you have to handle default constructor is not mandatory
          */
 
         Birds swan = new Birds();
@@ -47,6 +48,5 @@ public class _04_Copy_Constructor
         Birds hen = new Birds(swan);
 
         hen.info();
-
     }
 }

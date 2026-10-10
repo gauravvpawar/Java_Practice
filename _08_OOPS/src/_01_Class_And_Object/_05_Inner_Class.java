@@ -30,6 +30,7 @@ public class _05_Inner_Class
 {
     public static void main(String[] args) {
         Computer c1 = new Computer();
+        c1.work();
 
         Computer.Laptop l1 = c1.new Laptop();
         l1.work();

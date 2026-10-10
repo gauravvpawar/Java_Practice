@@ -4,15 +4,12 @@ class Person{
     int age;
     String name;
 
-
     Person()
     {
         System.out.println("It called");
         age  = 25;
         name = "Gaurav";
     }
-
-
 }
 
 public class _01_Constructor
@@ -33,6 +30,7 @@ public class _01_Constructor
         p1.age = 25;
         p1.name = "Gaurav"
          it works but it looks more complex code and show redundancy
+         instead of initialise object manually we can initialise using constructor
          */
         Person p1 = new Person();
 

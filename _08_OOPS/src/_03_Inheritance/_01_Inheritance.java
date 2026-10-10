@@ -22,7 +22,11 @@ public class _01_Inheritance
             Inheritance is a to access the  parent  class property within child class that time we can use inheritance
             it allow to use all state and behaviour from the parent class by using extends keyword
             it also known as is a relation  or blood relation
-
+            to access all property from parent
+            Derived class
+                |
+                |
+            Base class
             disadvantage ->
                 it provide the tight coupling between two classes
          */

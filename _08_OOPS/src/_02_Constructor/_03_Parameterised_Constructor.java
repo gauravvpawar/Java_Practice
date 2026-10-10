@@ -37,5 +37,9 @@ public class _03_Parameterised_Constructor
              s1.standard = 10;
          */
         s1.info();
+
+        // when you have the only parameterised constructor you cant create the object with the default constructor
+        Student s2 = new Student("Rohan" , 22 , 12);// you always have to pass parameter or else you have to define the default constructor
+        s2.info();
     }
 }

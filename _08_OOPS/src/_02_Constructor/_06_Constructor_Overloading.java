@@ -8,6 +8,12 @@ class Calculator
     {
         System.out.println("Performing  additions ");
     }
+
+    Calculator(int x)
+    {
+        System.out.println("Entered just single number : " + x);
+    }
+
     Calculator(int a , int b)
     {
         System.out.println(a+b);
@@ -33,6 +39,7 @@ public class _06_Constructor_Overloading
             and constructor it same like a method but its name is same like its class name
          */
 
+        Calculator c = new Calculator(4);
         Calculator c1 = new Calculator(10 , 20);
         Calculator c2 = new Calculator(10 , 20 ,30);
         Calculator c3 = new Calculator(10 , 20 , 30 , 40);

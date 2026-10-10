@@ -29,6 +29,7 @@ public class _03_Multi_level_inheritance
         /*
          Multilevel inheritance it have base class extend property of child class and  base class also become derived class
          it also extended by another child class
+         it follow level by level
          */
 
         Mouse m1 = new Mouse();

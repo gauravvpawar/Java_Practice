@@ -7,6 +7,7 @@ public class _03_Annonymous_Object
         // this is known as the anonymous object
 
         new Student().eat();
+        // once it called the method it shows the output and destroy
          // it cleans by the garbage collector
     }
 }
